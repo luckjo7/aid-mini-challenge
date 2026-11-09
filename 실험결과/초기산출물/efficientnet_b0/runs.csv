@@ -1,0 +1,2 @@
+﻿model,seed,workers,persistent_workers,best_epoch,valid_loss,valid_acc,seconds,n_params,checkpoint
+efficientnet_b0,42,2,True,11,0.03076228740360212,0.9885321100917431,72.47780230000353,4008829,C:\Users\행조\OneDrive\문서\ChatGPT\aid mini 대회\efficientnet_b0\checkpoints\efficientnet_b0_seed42.pt

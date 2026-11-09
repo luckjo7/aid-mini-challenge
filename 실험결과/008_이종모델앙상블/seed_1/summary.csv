@@ -1,0 +1,2 @@
+﻿model,split_seed,runs,loss_mean,loss_std,accuracy_mean,accuracy_std,seconds_mean,seconds_std,n_params
+mobilenet_v3_large+efficientnet_b0,1,4,0.015331552733537429,0.008150015998378186,0.9936926605504587,0.003917030109311758,380.45237837499917,114.8668196290438,16229800

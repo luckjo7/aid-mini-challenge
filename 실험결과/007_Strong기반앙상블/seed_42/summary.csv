@@ -1,0 +1,2 @@
+﻿model,split_seed,runs,loss_mean,loss_std,accuracy_mean,accuracy_std,seconds_mean,seconds_std,n_params
+efficientnet_b0,42,4,0.011907811391694948,0.009269462355837286,0.9965596330275228,0.00397259359534147,380.85319077500026,77.48193504584982,4008829

@@ -1,0 +1,4 @@
+﻿model,seed,learning_rate,learning_rate_schedule,valid_loss_first12,max_epochs,epochs_run,early_stopping,min_epochs,patience,best_epoch,valid_loss,valid_acc,seconds,n_params,checkpoint
+efficientnet_b0,42,0.001,"{11: 0.0003, 21: 0.0001}",0.0495298110085343,50,25,True,20,5,5,0.0495298110085343,0.9793577981651376,237.7700627000013,4008829,C:\Users\행조\OneDrive\문서\ChatGPT\aid mini 대회\실험결과\002_단계별학습률\checkpoints\efficientnet_b0_seed42.pt
+efficientnet_b0,43,0.001,"{11: 0.0003, 21: 0.0001}",0.03102572761484584,50,25,True,20,5,14,0.018339864995625347,0.9954128440366973,229.253469999996,4008829,C:\Users\행조\OneDrive\문서\ChatGPT\aid mini 대회\실험결과\002_단계별학습률\checkpoints\efficientnet_b0_seed43.pt
+efficientnet_b0,44,0.001,"{11: 0.0003, 21: 0.0001}",0.0364631042995174,50,25,True,20,5,16,0.03551931826476811,0.9839449541284404,228.7204924999969,4008829,C:\Users\행조\OneDrive\문서\ChatGPT\aid mini 대회\실험결과\002_단계별학습률\checkpoints\efficientnet_b0_seed44.pt

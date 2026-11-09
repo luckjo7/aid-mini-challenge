@@ -1,0 +1,2 @@
+﻿model,split_seed,runs,loss_mean,loss_std,accuracy_mean,accuracy_std,seconds_mean,seconds_std,n_params
+mobilenet_v3_large+resnet18_places365+efficientnet_b0,42,3,0.02414669493278802,0.020588633907407772,0.992354740061162,0.00954892660305566,325.96732996666833,49.436632924069905,19389167
